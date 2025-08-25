@@ -44,7 +44,7 @@
 ![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?style=flat&logo=mixpanel&logoColor=white)&nbsp;
 
 
-### :link: &nbsp;Connect with me
+### :link: &nbsp;Contact us
   <a href="https://www.upwork.com/agencies/1939751048005766642/" target="_blank"><img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
   <a href="mailto:hello@ixmatix.com"><img src="https://img.shields.io/badge/hello@ixmatix.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/company/ixmatix" target="_blank"><img src="https://img.shields.io/badge/LinkedIn%20Ixmatix-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
