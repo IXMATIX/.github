@@ -57,7 +57,7 @@
 
 
 
-<video src="https://github.com/user-attachments/assets/979bcf1d-67e6-4221-88ad-c274d28a8ade" width="600" autoplay muted loop playsinline></video>
+<video src="https://github.com/user-attachments/assets/979bcf1d-67e6-4221-88ad-c274d28a8ade" autoplay muted loop playsinline></video>
 
 
 
